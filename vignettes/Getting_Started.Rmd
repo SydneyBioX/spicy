@@ -1,0 +1,31 @@
+---
+title: "Getting_Started"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Getting_Started}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(spicy)
+library(spicyR)
+library(Statial)
+library(simpleSeg)
+library(lisaClust)
+library(ClassifyR)
+library(FuseSOM)
+```
+
+
+This is a test vignette to see what happens when I type `lisaClust()` or `kontextual()`.
+
+
+
