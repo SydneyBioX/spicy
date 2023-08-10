@@ -1,4 +1,5 @@
-url: https://sydneybiox.github.io/spicy/
+url: https://sydneybiox.github.io/spicy/, https://sydneybiox.github.io/spicyR/,
+     https://sydneybiox.github.io/lisaClust/, https://sydneybiox.github.io/Statial/
 template:
   bootstrap: 5
 
