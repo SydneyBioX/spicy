@@ -25,7 +25,7 @@ library(FuseSOM)
 ```
 
 
-This is a test vignette to see what happens when I type `lisaClust()` or `kontextual()`.
+This is a test vignette to see what happens when I type `lisaClust()` or `kontextual()` or `spicy()`.
 
 
 
