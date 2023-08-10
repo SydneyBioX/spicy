@@ -16,8 +16,7 @@ Imports:
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
-URL: https://sydneybiox.github.io/spicy/, https://sydneybiox.github.io/spicyR/, 
-     https://sydneybiox.github.io/lisaClust/, https://sydneybiox.github.io/Statial/
+URL: https://sydneybiox.github.io/spicy/, https://github.com/SydneyBioX/spicy
 Suggests: 
     knitr,
     rmarkdown
